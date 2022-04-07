@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ChodingalaPiyushkumar
-- 👀 I’m interested in girls
-- 🌱 I’m currently learning flirting
-- 💞️ I’m looking to collaborate on sexy figures
-- 📫 How to reach me tinder
+- 👀 I’m interested in Automatic Speech Recognition
+- 🌱 I’m currently learning Deep Learning
+- 💞️ I’m looking to collaborate on ASR and Deep Learning
+- 📫 How to reach me pc5251999@gmail.com
 
 <!---
 ChodingalaPiyushkumar/ChodingalaPiyushkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
